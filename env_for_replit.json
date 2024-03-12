@@ -1,0 +1,8 @@
+{
+  "ENV_NIX_APP_ID": "Enter your api id here",
+  "ENV_NIX_API_KEY": "Enter your api key here",
+  "ENV_SHEETY_ENDPOINT": "get this end point from dashboard of sheety",
+  "ENV_SHEETY_USERNAME": "username",
+  "ENV_SHEETY_PASSWORD": "password",
+  "ENV_SHEETY_TOKEN": "YOUR_TOKEN_HERE"
+}
